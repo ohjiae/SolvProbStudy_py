@@ -1,4 +1,4 @@
-# SolvProbStudy_py
+# Solving Problems Study - Python
 
 - 코딩테스트를 대비하기 위해 문제를 풀고 주 2회 코드리뷰를 하는 스터디입니다.
 - 언어 : Python
