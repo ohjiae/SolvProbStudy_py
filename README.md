@@ -2,7 +2,7 @@
 
 - 코딩테스트를 대비하기 위해 문제를 풀고 주 2회 코드리뷰를 하는 스터디입니다.
 - 언어 : Python
-- 참고 사이트 : [백준](https://www.acmicpc.net/) / [프로그래머스](https://programmers.co.kr/) /<p> [Leetcode](https://leetcode.com/explore/) / [SW Expert Academy](https://swexpertacademy.com/)
+- 참고 사이트 : [백준](https://www.acmicpc.net/) / [프로그래머스](https://programmers.co.kr/) / [Leetcode](https://leetcode.com/explore/) / [SW Expert Academy](https://swexpertacademy.com/)
 
 <br>
 <p>
