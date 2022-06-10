@@ -159,4 +159,4 @@
 <br>
 - 예시 사진<br>
 
-![issue-ex](https://user-images.githubusercontent.com/77822999/173002687-20d8ee3c-5abc-4164-9ef5-8c0859edc463.png)
+![issue-ex](https://user-images.githubusercontent.com/77822999/173002907-a2a736d2-fcfa-4a16-9704-178426159a5f.png)
