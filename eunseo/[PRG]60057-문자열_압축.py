@@ -23,5 +23,3 @@ def solution(s):
         length.append(len(result))
 
     return min(length)
-
-
