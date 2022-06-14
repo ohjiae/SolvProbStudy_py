@@ -48,7 +48,6 @@ def solution(s):
     answer = 1000
     N = len(s)
     
-
     if N == 1 :
         answer = 1
     else :
