@@ -2,8 +2,7 @@ def solution(n):
     nums = [1,2,4]
     t = 1
     answer = ''
-    if n < 4:
-        answer=str(nums[n-1])
+    if n < 4: answer=str(nums[n-1])
     else:
         while n > 3:
             n -= 1
