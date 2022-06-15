@@ -5,6 +5,4 @@ def solution(n):
         n = n-1 
         answer = arr[n%3] + answer 
         n = n//3
-    
-    
     return answer
