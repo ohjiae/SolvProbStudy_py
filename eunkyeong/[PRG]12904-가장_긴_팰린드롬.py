@@ -1,6 +1,3 @@
-s = "abacde"
-s
-
 ## 시간초과 
 def ispalindrome(x):
     if x == x[::-1]:
