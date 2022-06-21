@@ -2,11 +2,6 @@ def solution(fees, records):
     answer = []
     return answer
 
-
-## fees(list) : 기본시간, 기본요금, 단위시간, 단위요금 
-fees = [180, 5000, 10, 600]	
-
-
 import pandas as pd
 
 ## records(list) 
@@ -20,13 +15,7 @@ record_t
 
 record_t[record_t[2].apply(lambda x:len(x.split(" "))) % 2 == 1].index[0]
 record_df = record_df.append([['23:59', record_t[record_t[2].apply(lambda x:len(x.split(" "))) % 2 == 1].index[0], 'OUT']], ignore_index= True)
-record_df
-#record_df['time'] = 
-#record_df = 
 record_df.groupby(1).agg(" ".join)[0].apply(lambda x:time_cal(x)).apply(lambda x:money_cal(x)).tolist()
-# if record_t[2].apply(lambda x:len(x.split(" "))).values % 2 == 1:
-#     print(record_t)#record_t.append()
-
 
 def time_cal(df):
     # in은 무조건 out 보다 앞선시간  
