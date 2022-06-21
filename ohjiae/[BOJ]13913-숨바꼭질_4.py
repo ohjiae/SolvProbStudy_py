@@ -1,6 +1,5 @@
 from collections import deque
 N, K = map(int, input().split())
-
 T = [0]*100001
 way = [0]*100001
 
