@@ -18,6 +18,8 @@
 |2|김도윤(dyoon1635)|
 |3|김경민(jjongguet4u)|
 |4|오지애(ohjiae)|
+|5|윤좌홍(arsgsg1)|
+|6|이홍덕(doggydeok2)|
 |---------|
 |8월 이후|이호진(ili0820)|
 |8월 이후|이은경(stat-eklee)|
