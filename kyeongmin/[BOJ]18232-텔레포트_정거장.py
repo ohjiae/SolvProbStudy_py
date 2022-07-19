@@ -1,8 +1,6 @@
 # N, M = 10 ,3
 # S, E = 2, 5
 # graph = [[], [6, 3], [8], [1], [], [], [1], [], [2], [], []]
-
-
 import sys 
 input = sys.stdin.readline 
 N, M = map(int, input().split())
@@ -19,7 +17,6 @@ Q.append(S)
 
 dp = [int(1e7) for _ in range(N+1)] #무지하게 큰 값으로 초기화 
 dp[S] = 0 
-
 
 while Q : 
     location = Q.popleft()
