@@ -17,12 +17,11 @@ def bfs(node):
         now, d = q.popleft()
         if now == E :
             return d
-
         if 1 <= now <= N and not visited[now]:
                 visited[now]= True
                 q.append((now+1,d+1))
                 q.append((now-1,d-1))
                 if len(graph[now]) > 0:
                     for i in graph[now]:
-                        q.append((now, d+1))
+                        q.append((i, d+1))
 print(bfs(S))
