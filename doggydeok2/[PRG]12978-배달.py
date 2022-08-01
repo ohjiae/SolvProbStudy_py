@@ -15,7 +15,6 @@ def solution(N, road, K):
         if dist[e] < t:
             continue
         for nt, ne in adl[e]:
-            print(ne, t + nt)
             if dist[ne] < t + nt:
                 continue
             dist[ne] = t + nt
