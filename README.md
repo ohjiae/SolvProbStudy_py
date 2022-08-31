@@ -17,10 +17,8 @@
 |1|전소현(sohyeonnn)|
 |2|김도윤(dyoon1635)|
 |3|김경민(jjongguet4u)|
-|4|오지애(ohjiae)|
-|5|이홍덕(doggydeok2)|
-|6|이호진(ili0820)|
-|7|이은경(stat-eklee)|
+|4|이홍덕(doggydeok2)|
+|5|이호진(ili0820)|
 
 
 <br>
